@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="herpkupapp Test Suite" duration-ms="80483" started-at="2021-02-18T12:38:16 IST" finished-at="2021-02-18T12:39:37 IST">
+    <groups>
+    </groups>
+    <test name="herpkupapp test Case" duration-ms="80483" started-at="2021-02-18T12:38:16 IST" finished-at="2021-02-18T12:39:37 IST">
+      <class name="com.herpkupapp.testcase.WelomePageTestCase">
+        <test-method status="PASS" signature="initheroupapp()[pri:0, instance:com.herpkupapp.testcase.WelomePageTestCase@cb51256]" name="initheroupapp" is-config="true" duration-ms="11237" started-at="2021-02-18T12:38:16 IST" finished-at="2021-02-18T12:38:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initheroupapp -->
+        <test-method status="PASS" signature="validateLogin()[pri:1, instance:com.herpkupapp.testcase.WelomePageTestCase@cb51256]" name="validateLogin" duration-ms="482" started-at="2021-02-18T12:38:28 IST" finished-at="2021-02-18T12:38:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+      </class> <!-- com.herpkupapp.testcase.WelomePageTestCase -->
+      <class name="com.herpkupapp.testcase.FramesPageTestCase">
+        <test-method status="PASS" signature="initheroupapp()[pri:0, instance:com.herpkupapp.testcase.FramesPageTestCase@59906517]" name="initheroupapp" is-config="true" duration-ms="1" started-at="2021-02-18T12:38:28 IST" finished-at="2021-02-18T12:38:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initheroupapp -->
+        <test-method status="PASS" signature="validateiframeClick()[pri:1, instance:com.herpkupapp.testcase.FramesPageTestCase@59906517]" name="validateiframeClick" duration-ms="10128" started-at="2021-02-18T12:38:28 IST" finished-at="2021-02-18T12:38:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateiframeClick -->
+      </class> <!-- com.herpkupapp.testcase.FramesPageTestCase -->
+      <class name="com.herpkupapp.testcase.IFramesPageTestCase">
+        <test-method status="PASS" signature="initheroupapp()[pri:0, instance:com.herpkupapp.testcase.IFramesPageTestCase@5bfbf16f]" name="initheroupapp" is-config="true" duration-ms="0" started-at="2021-02-18T12:38:38 IST" finished-at="2021-02-18T12:38:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initheroupapp -->
+        <test-method status="PASS" signature="verify()[pri:1, instance:com.herpkupapp.testcase.IFramesPageTestCase@5bfbf16f]" name="verify" duration-ms="44" started-at="2021-02-18T12:38:38 IST" finished-at="2021-02-18T12:38:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method status="PASS" signature="initheroupapp()[pri:0, instance:com.herpkupapp.testcase.IFramesPageTestCase@5bfbf16f]" name="initheroupapp" is-config="true" duration-ms="1" started-at="2021-02-18T12:38:38 IST" finished-at="2021-02-18T12:38:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initheroupapp -->
+        <test-method status="PASS" signature="clearIFrameLogic()[pri:2, instance:com.herpkupapp.testcase.IFramesPageTestCase@5bfbf16f]" name="clearIFrameLogic" duration-ms="50478" started-at="2021-02-18T12:38:38 IST" finished-at="2021-02-18T12:39:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearIFrameLogic -->
+        <test-method status="PASS" signature="initheroupapp()[pri:0, instance:com.herpkupapp.testcase.IFramesPageTestCase@5bfbf16f]" name="initheroupapp" is-config="true" duration-ms="1" started-at="2021-02-18T12:39:29 IST" finished-at="2021-02-18T12:39:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initheroupapp -->
+        <test-method status="PASS" signature="clickElementSelenium()[pri:3, instance:com.herpkupapp.testcase.IFramesPageTestCase@5bfbf16f]" name="clickElementSelenium" duration-ms="8041" started-at="2021-02-18T12:39:29 IST" finished-at="2021-02-18T12:39:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickElementSelenium -->
+      </class> <!-- com.herpkupapp.testcase.IFramesPageTestCase -->
+    </test> <!-- herpkupapp test Case -->
+  </suite> <!-- herpkupapp Test Suite -->
+</testng-results>
