@@ -1,5 +1,5 @@
-# AutomationProject
-This project involves the automation of the Hero U App application 
+# Automation Project
+This project involves the automation of the Herokuapp application performs some functional Test on various webelements 
 
 This application automation involved various process like
 
